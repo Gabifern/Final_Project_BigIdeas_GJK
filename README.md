@@ -16,4 +16,7 @@ Kara Partridge klp154@pitt.edu
 **Allegheny County COVID-19 Tests, Cases and Deaths** link: https://data.wprdc.org/dataset/allegheny-county-covid-19-tests-cases-and-deaths
 (Gabi worked on this dataset)
 
+**Allegheny County 911 Dispatches - EMS and Fire** link: https://data.wprdc.org/dataset/allegheny-county-911-dispatches-ems-and-fire 
+(Kara worked on this dataset)
+
 # Repository Description
