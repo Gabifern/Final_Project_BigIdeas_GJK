@@ -7,6 +7,8 @@ Gabi Fernandes glf18@pitt.edu
 
 Jordan Williams jyw19@pitt.edu
 
+Kara Partridge klp154@pitt.edu
+
 # Description and links to the datasets used
 **Police Incident Blotter (30 days)** link: https://data.wprdc.org/dataset/police-incident-blotter
 (Jordan worked on this dataset)
