@@ -2,6 +2,8 @@
 
 # Team name: GJK
 
+# Canvas Project Group 45
+
 # Team members and their email addresses
 Gabi Fernandes glf18@pitt.edu
 
