@@ -12,7 +12,7 @@ Jordan Williams jyw19@pitt.edu
 Kara Partridge klp154@pitt.edu
 
 # Description and links to the datasets used
-**Police Incident Blotter (30 days)** link: https://data.wprdc.org/dataset/police-incident-blotter
+**Toxic Releases to waterways in Allegheny County** link: https://data.wprdc.org/datastore/dump/c9baaa77-2dc5-494c-a2ce-f90db9106df2
 (Jordan worked on this dataset)
 
 **Allegheny County COVID-19 Tests, Cases and Deaths** link: https://data.wprdc.org/dataset/allegheny-county-covid-19-tests-cases-and-deaths
