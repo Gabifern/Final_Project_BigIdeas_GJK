@@ -4,14 +4,14 @@
 
 # Canvas Project Group 45
 
-# Team members and their email addresses
+# Team Members and Email Addresses
 Gabi Fernandes glf18@pitt.edu
 
 Jordan Williams jyw19@pitt.edu
 
 Kara Partridge klp154@pitt.edu
 
-# Description and links to the datasets used
+# Description and Links to Datasets
 **Police Incident Blotter(Archive)** link: https://data.wprdc.org/datastore/dump/044f2016-1dfd-4ab0-bc1e-065da05fca2e
 (Jordan worked on this dataset)
 
