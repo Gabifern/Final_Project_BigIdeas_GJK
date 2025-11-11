@@ -22,4 +22,4 @@ Kara Partridge klp154@pitt.edu
 (Kara worked on this dataset)
 
 # Repository Description
-This repository determines what is the best neighborhood in Pittsburgh using the metric of health and safety. Using the submetrics of police incidents, 911 dispatches, and COVID cases, our team determined which neighborhood was the best in terms of health and safety by using plotting and datasets to see which had the lowest amount of police activity and lowest amount of COVID cases. 
+This repository determines what is the best neighborhood in Pittsburgh using the metric of health and safety. Using the submetrics of police incidents, 911 dispatches (fire & EMS), and COVID cases, our team determined which neighborhood was the best in terms of health and safety by using plotting and datasets to see which had the LOWEST amount of police activity, fire/EMS dispatches, and COVID positivity rates. We determined that the top three neighborhoods that were low in all of these areas were the safest in Pittsburgh since they were less likely to experience crime, health issues, safety problems, and emergencies.  
